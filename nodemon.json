@@ -2,7 +2,7 @@
     "env": {
         "MONGO_USER": "revier",
         "MONGO_PASSWORD": "Revier4317",
-        "MONGO_DB": "project-api",
+        "DB_NAME": "test",
         "JWT_KEY": "secret"
     }
 }
