@@ -3,6 +3,10 @@
         "MONGO_USER": "revier",
         "MONGO_PASSWORD": "Revier4317",
         "DB_NAME": "test",
-        "JWT_KEY": "secret"
+        "JWT_KEY": "secret",
+        "HOST": "smtp.gmail.com",
+        "PORT": "587",
+        "AUTH_USER": null,
+        "AUTH_PASS": null,
     }
 }
